@@ -59,6 +59,21 @@ add includes from Utils.cpp
 add all sources from Utils.cpp
 
 
+### v0.3.2
+
+include etutils.h / etutils.cpp
+
+- MICROBIT HW
+- CALLIOPE HW
+
+Bug in exttestc.cpp!
+
+### v0.3.3
+
+removed duplicate code in exttestc.cpp
+
+
+
 
 
 ## ~ hint
